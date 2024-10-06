@@ -13,6 +13,12 @@ const config: Config = {
         center: true,
         padding: '1rem'
       },
+      fontFamily: {
+        sans: ['var(--font-geist-sans)'],
+        mono: ['var(--font-geist-mono)'],
+        montserrat: ['var(--font-montserrat)'],
+        silkscreen: ['var(--font-silkscreen)']
+      },
       colors: {
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
