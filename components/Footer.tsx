@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Footer () {
   return (
-    <div className=' h-[40px] border-t w-full'>
+    <div className=' h-[20px] border-t w-full'>
       <div className='h-full flex-center text-xs'>
         cherrydub 🍒 © {new Date().getFullYear()}
       </div>
